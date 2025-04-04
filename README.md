@@ -23,6 +23,12 @@ Open a terminal and run:
 pip install streamlit-navigation-bar
 ```
 
+If the navbar doesn't show up, there could be an issue with the module. Try with,
+
+``` bash
+pip install streamlit-community-navigation-bar
+```
+
 ## Example
 
 Here is a basic example of how to use it:
